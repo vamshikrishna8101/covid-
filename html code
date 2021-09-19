@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="border-container">
+        <div class="top-card d-flex flex-row">
+            <div>
+                <p class="top-card-para">All you need to know about COVID-19</p>
+                <button class="btn btn-primary">Know more</button>
+            </div>
+            <div>
+                <img src=" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/medicalcare-img.png">
+            </div>
+
+        </div>
+        <div class="center-card d-flex flex-row">
+            <div>
+                <img src=" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/coronavirus-img.png">
+            </div>
+            <div>
+                <h1 class="center-card-head">COVID-19 Test</h1>
+                <p class="center-card-para">If you think you have been exposed to novel coronavirus(COVID-19)...more</p>
+            </div>
+        </div>
+        <p class="center-card-head">Symptoms</p>
+        <div class="symptoms-container d-flex flex-row">
+
+            <div class="symptom-one">
+                <img src=" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/cough-img.png">
+                <p class="symptom-one-text">Dry cough</p>
+            </div>
+            <div class="symptom-two">
+                <img src=" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/fever-img.png">
+                <p class="symptom-one-text">High Fever</p>
+            </div>
+            <div class="symptom-three">
+                <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/headache-img.png">
+                <p class="symptom-one-text">Headache</p>
+            </div>
+        </div>
+        <p class="center-card-head">Videos</p>
+        <div class="bottom-card">
+            <div class="d-flex flex-row">
+                <div>
+                    <img src=" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/doctor-img.png">
+
+                </div>
+                <div>
+                    <h1 class="center-card-head">To prevent the spread of ...</h1>
+                    <p class="center-card-para">If you think you have been exposed to novel coronavirus(COVID-19)</p>
+                    <button class="btn btn-primary">Watch Video</button>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</body>
+
+</html>
